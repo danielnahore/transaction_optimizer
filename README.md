@@ -1,10 +1,10 @@
-# Transaction Optimizer 
+# Authorize Application 
 TODO
 
-# Backend
+# Backend using Authorize.Net, C# 
 TODO
 
-# Frontend
+# Frontend using Vite + Reactjs
 TODO
 
 # Run and build
